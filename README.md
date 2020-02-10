@@ -6,3 +6,5 @@ En cada carpeta (Cypress, Playwright y Puppeteer, se encuentra el script corresp
 En la carpeta principal se encuentra una imagen con la tabla de comparacion de todas.
 
 En cuanto a Cypress, se realizo lo solicitado en el taller. En cuanto a Playwright y Puppeteer se realizo un registro, un login, un logout, un login y un delete.
+
+La principal diferencia entre Playwright y Puppeteer, es que la segunda solo soporta un explorador mientras que Playwright acepta varios exploradores
